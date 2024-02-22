@@ -11,10 +11,6 @@ An object of class \code{data.frame} with 10471 rows and 8 columns.
 U91P4S03
 }
 \description{
-\tabular{lll}{
-   Column 1 Header \tab Column 2 Header \tab Column 3 Header \cr
-   Row 1, Col 1 \tab Row 1, Col 2 \tab Row 1, Col 3 \cr
-   Row 2, Col 1 \tab Row 2, Col 2 \tab Row 2, Col 3 \cr
-}
+
 }
 \keyword{datasets}

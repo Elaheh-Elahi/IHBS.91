@@ -863,24 +863,19 @@
 
 #' Title for U91P4S01
 #'
-#' @format A data frame with 16 variables:
-#' \describe{"درآمد پولی اعضای شاغل خانوار از مشاغل مزد و حقوق بگیر" Get paid income from family members working in the wage
-#'   \item{Address}{"آدرس خانوار" Address}
-#'   \item{DYCOL01}{"شماره ردیف عضو شاغل" Job row number}
-#'   \item{DYCOL02}{"آیا در حال حاضر شاغل است؟" Is she/he currently employed?}
-#'   \item{DYCOL03}{"کد شغل" Job code}
-#'   \item{DYCOL04}{"فعالیت اصلی محل کار" Main activity of the workplace}
-#'   \item{DYCOL05}{"بخش عمومی 1 بخش تعاونی 2 بخش خصوصی 3" General Section 1 Cooperative Section 2 Private Section 3}
-#'   \item{DYCOL06}{"میزان ساعت های کار در روز" The amount of working hours per day}
-#'   \item{DYCOL07}{"تعداد روزهای کار در هفته" Number of working days per week}
-#'   \item{DYCOL08}{"مجموع درآمدهای ناخالص مستمر و غیرمستمر قبل از کسورات(ماه گذشته)" Total of continuous and non-continuous gross income before deficits(last month)}
-#'   \item{DYCOL09}{"مجموع درآمدهای ناخالص مستمر و غیرمستمر قبل از کسورات (12 ماه گذشته))" Total of continuous and non-continuous gross income before deficits(last 12 months)}
-#'   \item{DYCOL10}{"مزد و حقوق و مزایای مستمر (ماه گذشته)" Continuous wages and benefits (last Month)}
-#'   \item{DYCOL11}{"مزد و حقوق و مزایای مستر (12 ماه گذشته))" Continuous wages and benefits (last 12 Months)}
-#'   \item{DYCOL12}{"مزایای غیرمستمر (ماه گذشته)" Uncontinuous benefits (last month)}
-#'   \item{DYCOL13}{"مزایای غیرمستمر (12 ماه گذشته)" Uncontinuous benefits (last 12 months)}
-#'   \item{DYCOL14}{"مجموع درآمد خالص(ماه گذشته)" Total net income (last month)}
-#'   \item{DYCOL15}{"مجموع درآمد خالص (12 ماه گذشته)" Total net income (last 12 months)}
+#'  @format A data frame with 3 columns:
+#' \item[invisible] <table>
+#' \item[invisible] <tr>
+#' \item[invisible] <th> Column1 </th>
+#' \item[invisible] <th> Column2 </th>
+#' \item[invisible] <th> Column3 </th>
+#' \item[invisible] </tr>
+#' \item[invisible] <tr>
+#' \item[invisible] <td> Description of column 1. </td>
+#' \item[invisible] <td> Description of column 2. </td>
+#' \item[invisible] <td> Description of column 3. </td>
+#' \item[invisible] </tr>
+#' \item[invisible] </table>
 #'}
 "U91P4S01"
 
@@ -910,24 +905,11 @@
 
 #' Title for U91P4S02
 #'
-#' @format A data frame with 16 variables:
-#' \describe{"درآمد پولی اعضای شاغل خانوار از مشاغل آزاد" Money income of family working members from unemployed(free) jobs
-#'   \item{Address}{"آدرس خانوار" Address}
-#'   \item{DYCOL01}{"شماره ردیف عضو شاغل" Job row number}
-#'   \item{DYCOL02}{"آیا در حال حاضر شاغل است؟" Is she/he currently employed?}
-#'   \item{DYCOL03}{"کد شغل" Job code}
-#'   \item{DYCOL04}{"فعالیت اصلی محل کار" Main activity of the workplace}
-#'   \item{DYCOL05}{"کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3" Employer 1 independent employee 2 family employees 3}
-#'   \item{DYCOL06}{"کشاورزی 1 غیرکشاورزی 2" Agriculture 1 non-agriculture 2}
-#'   \item{DYCOL07}{"میزان ساعت های کار در روز" The amount of working hours per day}
-#'   \item{DYCOL08}{"تعداد روزهای کار در هفته" Number of working days per week}
-#'   \item{DYCOL09}{"مزد و حقوق و مزایا" Wages and benefits}
-#'   \item{DYCOL10}{"بذر، آب و کود" Seeds, water and fertilizer}
-#'   \item{DYCOL11}{"تهیه ابزار کار بی دوام" Preparation of durable working tools}
-#'   \item{DYCOL12}{"کارمزد شغلی" Job wage}
-#'   \item{DYCOL13}{"مالیات شغلی" Job tax}
-#'   \item{DYCOL14}{"فروش (دریافت ناخالص)" Sales (gross receiving)}
-#'   \item{DYCOL15}{"درآمد خالص" Net income}
+#'@format A data frame with 3 columns:
+#' \itemize{
+#'   \item Column1: Description of column 1.
+#'   \item Column2: Description of column 2.
+#'   \item Column3: Description of column 3.
 #'}
 "U91P4S02"
 
@@ -953,5 +935,5 @@
 #'  |-----------------|-----------------|-----------------|
 #'  | Row 1, Col 1    | Row 1, Col 2    | Row 1, Col 3    |
 #'  | Row 2, Col 1    | Row 2, Col 2    | Row 2, Col 3    |
-# }
+#' }
 "U91P4S03"

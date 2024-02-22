@@ -5,24 +5,11 @@
 \alias{U91P4S02}
 \title{Title for U91P4S02}
 \format{
-A data frame with 16 variables:
-\describe{"درآمد پولی اعضای شاغل خانوار از مشاغل آزاد" Money income of family working members from unemployed(free) jobs
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"شماره ردیف عضو شاغل" Job row number}
-\item{DYCOL02}{"آیا در حال حاضر شاغل است؟" Is she/he currently employed?}
-\item{DYCOL03}{"کد شغل" Job code}
-\item{DYCOL04}{"فعالیت اصلی محل کار" Main activity of the workplace}
-\item{DYCOL05}{"کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3" Employer 1 independent employee 2 family employees 3}
-\item{DYCOL06}{"کشاورزی 1 غیرکشاورزی 2" Agriculture 1 non-agriculture 2}
-\item{DYCOL07}{"میزان ساعت های کار در روز" The amount of working hours per day}
-\item{DYCOL08}{"تعداد روزهای کار در هفته" Number of working days per week}
-\item{DYCOL09}{"مزد و حقوق و مزایا" Wages and benefits}
-\item{DYCOL10}{"بذر، آب و کود" Seeds, water and fertilizer}
-\item{DYCOL11}{"تهیه ابزار کار بی دوام" Preparation of durable working tools}
-\item{DYCOL12}{"کارمزد شغلی" Job wage}
-\item{DYCOL13}{"مالیات شغلی" Job tax}
-\item{DYCOL14}{"فروش (دریافت ناخالص)" Sales (gross receiving)}
-\item{DYCOL15}{"درآمد خالص" Net income}
+A data frame with 3 columns:
+\itemize{
+\item Column1: Description of column 1.
+\item Column2: Description of column 2.
+\item Column3: Description of column 3.
 }
 }
 \usage{
