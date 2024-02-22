@@ -5,22 +5,16 @@
 \alias{U91P4S03}
 \title{Title for U91P4S03}
 \format{
-A data frame with 8 variables:
-\describe{"درآمدهای متفرقه خانوار" Miscellaneous household income
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"شماره ردیف اعضای خانوار" Row number of family members}
-\item{DYCOL03}{"حقوق بازنشستگی" Retirement wage}
-\item{DYCOL04}{"درآمد حاصل از اجاره محل کسب" Revenue from renting the business place}
-\item{DYCOL05}{"درآمد حاصل از حساب پس انداز" Income from the savings account}
-\item{DYCOL06}{"کمک هزینه تحصیلی" Scholarships}
-\item{DYCOL07}{"درآمد حاصل از محل فروش مصنوعات" Income from the sale of artifacts}
-\item{DYCOL08}{"دریافتی های انتقالی از خانوارهای دیگر" Transfer receivals from other families}
-}
+An object of class \code{data.frame} with 10471 rows and 8 columns.
 }
 \usage{
 U91P4S03
 }
 \description{
-Title for U91P4S03
+\tabular{lll}{
+   Column 1 Header \tab Column 2 Header \tab Column 3 Header \cr
+   Row 1, Col 1 \tab Row 1, Col 2 \tab Row 1, Col 3 \cr
+   Row 2, Col 1 \tab Row 2, Col 2 \tab Row 2, Col 3 \cr
+}
 }
 \keyword{datasets}
