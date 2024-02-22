@@ -3,7 +3,9 @@
 \docType{data}
 \name{R91KarBargh2}
 \alias{R91KarBargh2}
-\title{Title for R91KarBargh2}
+\title{Title for R91KarBargh2
+Income (employees in the agricultural sector) of Rural Households in 1391
+كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار سال 1391}
 \format{
 A data frame with 95 variables:
 \describe{Income (employees in the agricultural sector)
@@ -116,5 +118,7 @@ R91KarBargh2
 }
 \description{
 Title for R91KarBargh2
+Income (employees in the agricultural sector) of Rural Households in 1391
+كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار سال 1391
 }
 \keyword{datasets}

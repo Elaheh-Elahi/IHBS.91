@@ -1,24 +1,32 @@
-#' Title for R91
+#' Table R791
 #'
-#' @format A data frame with 2 variables:
+#' R for Rural
+#' 91 for year of 1391
+#' @format A data frame with 2 columns
 #' \describe{
-#'   \item{Address}{"آدرس" Address}
-#'   \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
+#'   \item {Address:} {"آدرس"} {" Household address"}
+#'   \item {MahMorajeh:} {"ماه مراجعه به خانوار"} {"The month of visiting the household"}
 #' }
-"R91"
+"R791"
 
-#' Title for U91
+#' Table U991
 #'
-#' @format A data frame with 2 variables:
+#' U for Urban
+#' 91 for year of 1391
+#'
+#' @format A data frame with 2 columns
 #' \describe{
-#'   \item{Address}{"آدرس" Address}
-#'   \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
+#'   \item{Address:}{"آدرس"}{" Household address"}
+#'   \item{MahMorajeh:}{"ماه مراجعه به خانوار"} {"The month of visiting the household"}
 #' }
 "U91"
 
-#' Title for R91Data
+#' Table R91Data
 #'
-#' @format A data frame with 22 variables:
+#' R for Rural
+#' 91 for year of 1391
+#'
+#' @format A data frame with 22 columns:
 #' \describe{
 #'   \item{Address}{"آدرس" Address}
 #'   \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
@@ -55,9 +63,12 @@
 #' }
 "R91Data"
 
-#' Title for U91Data
+#' Table U91Data
 #'
-#' @format A data frame with 22 variables:
+#' U for Uraban
+#' 91 for year of 1391
+#'
+#' @format A data frame with 22 columns:
 #' \describe{
 #'   \item{Address}{"آدرس" Address}
 #'   \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
@@ -118,6 +129,8 @@
 "U91KarBargh1"
 
 #' Title for R91KarBargh2
+#' Income (employees in the agricultural sector) of Rural Households in 1391
+#' كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار سال 1391
 #'
 #' @format A data frame with 95 variables:
 #' \describe{Income (employees in the agricultural sector)

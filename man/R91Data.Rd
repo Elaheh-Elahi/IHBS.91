@@ -3,9 +3,9 @@
 \docType{data}
 \name{R91Data}
 \alias{R91Data}
-\title{Title for R91Data}
+\title{Table R91Data}
 \format{
-A data frame with 22 variables:
+A data frame with 22 columns:
 \describe{
 \item{Address}{"آدرس" Address}
 \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
@@ -43,6 +43,7 @@ A data frame with 22 variables:
 R91Data
 }
 \description{
-Title for R91Data
+R for Rural
+91 for year of 1391
 }
 \keyword{datasets}

@@ -3,18 +3,21 @@
 \docType{data}
 \name{R91}
 \alias{R91}
-\title{Title for R91}
+\title{Table R91}
 \format{
-A data frame with 2 variables:
-\describe{
-\item{Address}{"آدرس" Address}
-\item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
+A data frame with 2 columns
+\describe{\tabular{ll}{
+   Column Name \tab Description \cr
+   Address \tab "آدرس" Household address \cr
+   MahMorajeh \tab "ماه مراجعه به خانوار" The month of visiting the household \cr
+   } \tab  \cr
 }
 }
 \usage{
 R91
 }
 \description{
-Title for R91
+R for Rural
+91 for year of 1391
 }
 \keyword{datasets}

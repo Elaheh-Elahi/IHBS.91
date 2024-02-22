@@ -3,11 +3,11 @@
 \docType{data}
 \name{U91}
 \alias{U91}
-\title{Title for U91}
+\title{Table U91}
 \format{
-A data frame with 2 variables:
+A data frame with 2 columns
 \describe{
-\item{Address}{"آدرس" Address}
+\item{Address}{"آدرس" Household address}
 \item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
 }
 }
@@ -15,6 +15,7 @@ A data frame with 2 variables:
 U91
 }
 \description{
-Title for U91
+U for Urban
+91 for year of 1391
 }
 \keyword{datasets}
