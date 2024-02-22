@@ -7,8 +7,8 @@
 \format{
 A data frame with 2 columns
 \describe{
-\item{Address}{"آدرس" Household address}
-\item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
+\item{Address:}{"آدرس"}{" Household address"}
+\item{MahMorajeh:}{"ماه مراجعه به خانوار"} {"The month of visiting the household"}
 }
 }
 \usage{

@@ -6,11 +6,9 @@
 \title{Table R91}
 \format{
 A data frame with 2 columns
-\describe{\tabular{ll}{
-   Column Name \tab Description \cr
-   Address \tab "آدرس" Household address \cr
-   MahMorajeh \tab "ماه مراجعه به خانوار" The month of visiting the household \cr
-   } \tab  \cr
+\describe{
+\item {Address:} {"آدرس"} {" Household address"}
+\item {MahMorajeh:} {"ماه مراجعه به خانوار"} {"The month of visiting the household"}
 }
 }
 \usage{

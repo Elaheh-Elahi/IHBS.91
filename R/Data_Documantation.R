@@ -1,4 +1,4 @@
-#' Table R791
+#' Table R91
 #'
 #' R for Rural
 #' 91 for year of 1391
@@ -7,9 +7,9 @@
 #'   \item {Address:} {"آدرس"} {" Household address"}
 #'   \item {MahMorajeh:} {"ماه مراجعه به خانوار"} {"The month of visiting the household"}
 #' }
-"R791"
+"R91"
 
-#' Table U991
+#' Table U91
 #'
 #' U for Urban
 #' 91 for year of 1391
