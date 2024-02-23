@@ -908,11 +908,12 @@
 #'
 #'@format A data frame with 3 columns:
 #' \itemize{
-#'   \item DYCOL01:
-#'            Farsi name: آدرس
-#'            Description: Houshold address
-#'   \item Column2: Description of column 2.
-#'   \item Column3: Description of column 3.
+#'   \item \code{DYCOL01}:
+#'             Farsi name: \emph{آدرس}
+#'             Description: Household address
+#'   \item \code{DYCOL02}:
+#'             Farsi name: \emph{مالک خودرو}
+#'             Description: Car
 #'}
 "U91P4S02"
 
