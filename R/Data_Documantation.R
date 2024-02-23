@@ -1,13 +1,14 @@
 #' Table R91
 #'
-#' R for Rural
-#' 91 for year of 1391
-#' @format A data frame with 2 columns
+#' {R for Rural}
+#' {91 for year of 1391}
+#' @format A data frame with 2 columns:
 #' \describe{
-#'   \item {Address:} {"آدرس"} {" Household address"}
-#'   \item {MahMorajeh:} {"ماه مراجعه به خانوار"} {"The month of visiting the household"}
+#'   \item {Address:} {"* Farsi Name: آدرس خانوار"} {"* Description: Household address"}
+#'   \item {MahMorajeh:} {"- Farsi Name: ماه مراجعه به خانوار"} {"- Description: The month of visiting the household"}
 #' }
 "R91"
+
 
 #' Table U91
 #'
