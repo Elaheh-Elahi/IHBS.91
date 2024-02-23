@@ -7,7 +7,9 @@
 \format{
 A data frame with 3 columns:
 \itemize{
-\item Column1: Description of column 1.
+\item DYCOL01:
+Farsi name: آدرس
+Description: Houshold address
 \item Column2: Description of column 2.
 \item Column3: Description of column 3.
 }
