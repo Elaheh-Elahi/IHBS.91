@@ -3,19 +3,46 @@
 \docType{data}
 \name{U91}
 \alias{U91}
-\title{Table U91}
+\title{Table R91}
 \format{
-A data frame with 2 columns
-\describe{
-\item{Address:}{"آدرس"}{" Household address"}
-\item{MahMorajeh:}{"ماه مراجعه به خانوار"} {"The month of visiting the household"}
+A data frame with 2 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{MahMorajeh}:
+\itemize{
+\item Farsi name: \emph{ماه مراجعه به خانوار}
+\item Description: The month of visiting the household
+}
+}
+
+A data frame with 2 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{MahMorajeh}:
+\itemize{
+\item Farsi name: \emph{ماه مراجعه به خانوار}
+\item Description: The month of visiting the household
+}
 }
 }
 \usage{
 U91
+
+U91
 }
 \description{
-U for Urban
-91 for year of 1391
+{R for Rural}
+{91 for year of 1391}
+
+{U for Urban}
+{91 for year of 1391}
 }
 \keyword{datasets}

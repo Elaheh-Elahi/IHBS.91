@@ -8,11 +8,15 @@
 A data frame with 3 columns:
 \itemize{
 \item \code{DYCOL01}:
-Farsi name: \emph{آدرس}
-Description: Household address
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
 \item \code{DYCOL02}:
-Farsi name: \emph{مالک خودرو}
-Description: Car
+\itemize{
+\item Farsi name: \emph{خانه}
+\item Description: Household address
+}
 }
 }
 \usage{
