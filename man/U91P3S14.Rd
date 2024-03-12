@@ -3,21 +3,46 @@
 \docType{data}
 \name{U91P3S14}
 \alias{U91P3S14}
-\title{Title for U91P3S14}
+\title{Table U91P3S14 \cr
+Household investment of urban household in the last 12 months in 1391 \cr
+سرمايه گذاري خانوار شهری در 12 ماه گذشته سال 1391}
 \format{
-A data frame with 7 variables:
-\describe{"سرمایه گذاری خانوار در 12 ماه گذشته" Household investment in the last 12 months
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"کد کالا" Bar code}
-\item{DYCOL02}{"طریق تهیه" Preparation method}
-\item{DYCOL03}{"خرید یا هزینه" Purchase or expense}
-\item{DYCOL04}{"فروش دست دوم" Second hand sale}
+A data frame with 5 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس خانوار}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{کد کالا}
+\item Description: Bar code
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{طریق تهیه}
+\item Description: Preparation method
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{خرید یا هزینه}
+\item Description: Purchase or expenditure
+}
+\item \code{DYCOL04}:
+\itemize{
+\item Farsi name: \emph{فروش دست دوم}
+\item Description: Second hand sale
+}
 }
 }
 \usage{
 U91P3S14
 }
 \description{
-Title for U91P3S14
+{U for Urban} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

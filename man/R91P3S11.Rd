@@ -3,20 +3,41 @@
 \docType{data}
 \name{R91P3S11}
 \alias{R91P3S11}
-\title{Title for R91P3S11}
+\title{Table R91P3S11 \cr
+Household ready meals in hotels and restaurants expenditure of rural household in 1391 \cr
+هزينه هاي  غذاهاي آماده هتل و رستوران خانوار روستایی سال 1391}
 \format{
-A data frame with 4 variables:
-\describe{"هزینه های غذاهای آماده هتل و رستوران" The costs of ready meals in hotels and restaurants
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"کد کالا" Bar code}
-\item{DYCOL02}{"طریق تهیه" Preparation method}
-\item{DYCOL03}{"ارزش(ریال)" Value (Rials)}
+A data frame with 4 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس خانوار}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{کد کالا}
+\item Description: Bar code
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{طریق تهیه}
+\item Description: Preparation method
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{ارزش (ریال)}
+\item Description: Value (Rials)
+}
 }
 }
 \usage{
 R91P3S11
 }
 \description{
-Title for R91P3S11
+{R for Rural} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

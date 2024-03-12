@@ -77,21 +77,53 @@ A data frame with 22 columns:
 \item Farsi name: \emph{شماره رديف خانوار جايگزين در واحد نمونه گيري اوليه}
 \item Description:  Substitute household row number in the primary sampling unit
 }
-\item{fStat}{Description of var15}
-\item{fEnt}{Description of var16}
-\item{fvfy}{Description of var17}
-\item{user1}{Description of var18}
-\item{user2}{Description of var19}
-\item{user3}{Description of var20}
-\item{user4}{Description of var21}
-\item{Tekrari}{Description of var22}
+\item \code{fStat}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{fEnt}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{fvfy}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{user1}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{user2}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{user3}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{user4}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
+\item \code{Tekrari}:
+\itemize{
+\item Farsi name: \emph
+\item Description: No description
+}
 }
 }
 \usage{
 U91Data
 }
 \description{
-U for Uraban \cr
-91 for year of 1391
+{U for Urban} \cr
+{91 for 1391}
 }
 \keyword{datasets}

@@ -3,20 +3,41 @@
 \docType{data}
 \name{U91P3S08}
 \alias{U91P3S08}
-\title{Title for U91P3S08}
+\title{Table U91P3S08 \cr
+Household communication expenditure of urban household in 1391 \cr
+هزينه هاي ارتباطات خانوار شهری  سال 1391}
 \format{
-A data frame with 4 variables:
-\describe{"هزینه های ارتباطات خانوار" The costs of household communication devices
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"کد کالا" Bar code}
-\item{DYCOL02}{"طریق تهیه" Preparation method}
-\item{DYCOL03}{"ارزش(ریال)" Value (Rials)}
+A data frame with 4 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس خانوار}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{کد کالا}
+\item Description: Bar code
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{طریق تهیه}
+\item Description: Preparation method
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{ارزش (ریال)}
+\item Description: Value (Rials)
+}
 }
 }
 \usage{
 U91P3S08
 }
 \description{
-Title for U91P3S08
+{U for Urban} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

@@ -3,32 +3,101 @@
 \docType{data}
 \name{R91P4S02}
 \alias{R91P4S02}
-\title{Title for R91P4S02}
+\title{Table R91P4S02 \cr
+Self-employment income of rural household in 1391 \cr
+درآمد پولي اعضای شاغل خانوار روستایی از مشاغل آزاد سال 1391}
 \format{
-A data frame with 16 variables:
-\describe{"درآمد پولی اعضای شاغل خانوار از مشاغل آزاد" Money income of family working members from unemployed(free) jobs
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"شماره ردیف عضو شاغل" Job row number}
-\item{DYCOL02}{"آیا در حال حاضر شاغل است؟" Is she/he currently employed?}
-\item{DYCOL03}{"کد شغل" Job code}
-\item{DYCOL04}{"فعالیت اصلی محل کار" Main activity of the workplace}
-\item{DYCOL05}{"کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3" Employer 1 independent employee 2 family employees 3}
-\item{DYCOL06}{"کشاورزی 1 غیرکشاورزی 2" Agriculture 1 non-agriculture 2}
-\item{DYCOL07}{"میزان ساعت های کار در روز" The amount of working hours per day}
-\item{DYCOL08}{"تعداد روزهای کار در هفته" Number of working days per week}
-\item{DYCOL09}{"مزد و حقوق و مزایا" Wages and benefits}
-\item{DYCOL10}{"بذر، آب و کود" Seeds, water and fertilizer}
-\item{DYCOL11}{"تهیه ابزار کار بی دوام" Preparation of durable working tools}
-\item{DYCOL12}{"کارمزد شغلی" Job wage}
-\item{DYCOL13}{"مالیات شغلی" Job tax}
-\item{DYCOL14}{"فروش (دریافت ناخالص)" Sales (gross receiving)}
-\item{DYCOL15}{"درآمد خالص" Net income}
+A data frame with 16 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{شماره ردیف عضو شاغل}
+\item Description: Row number of the working member
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{آيا در حال حاضر شاغل است؟}
+\item Description: Is she/he currently employed?
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{كدشغل}
+\item Description: Job code
+}
+\item \code{DYCOL04}:
+\itemize{
+\item Farsi name: \emph{فعاليت اصلي محل كار}
+\item Description: Main activity of the workplace
+}
+\item \code{DYCOL05}:
+\itemize{
+\item Farsi name: \emph{کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3}
+\item Description: Employer 1 independent employee 2 family employee 3
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{كد شغل کشاورزی 1 غیرکشاورزی 2}
+\item Description: Agriculture 1 non-agriculture 2
+}
+\item \code{DYCOL06}:
+\itemize{
+\item Farsi name: \emph{ميزان ساعت هاي كار در روز}
+\item Description: The amount of working hours per day
+}
+\item \code{DYCOL07}:
+\itemize{
+\item Farsi name: \emph{تعداد روزهاي كار در هفته}
+\item Description: Number of working days per week
+}
+\item \code{DYCOL08}:
+\itemize{
+\item Farsi name: \emph{مزد و حقوق و مزایا}
+\item Description: Wages and benefits
+}
+\item \code{DYCOL09}:
+\itemize{
+\item Farsi name: \emph{بذر، آب و کود}
+\item Description: Seeds, water and fertilizer
+}
+\item \code{DYCOL10}:
+\itemize{
+\item Farsi name: \emph{تهیه ابزار کار بی دوام}
+\item Description: Preparation of unsustainable working tools
+}
+\item \code{DYCOL11}:
+\itemize{
+\item Farsi name: \emph{کارمزد شغلی}
+\item Description: Job wage
+}
+\item \code{DYCOL12}:
+\itemize{
+\item Farsi name: \emph{مالیات شغلی}
+\item Description: Job tax
+}
+\item \code{DYCOL13}:
+\itemize{
+\item Farsi name: \emph{فروش (دریافتی ناخالص)}
+\item Description: Sales (gross receiving)
+}
+\item \code{DYCOL14}:
+\itemize{
+\item Farsi name: \emph{درآمد خالص}
+\item Description: Net income
+}
 }
 }
 \usage{
 R91P4S02
 }
 \description{
-Title for R91P4S02
+{R for Rural} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

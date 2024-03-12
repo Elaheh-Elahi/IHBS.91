@@ -24,6 +24,6 @@ U91
 }
 \description{
 {U for Urban} \cr
-{91 for the year of 1391}
+{91 for 1391}
 }
 \keyword{datasets}

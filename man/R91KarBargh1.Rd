@@ -3,8 +3,9 @@
 \docType{data}
 \name{R91KarBargh1}
 \alias{R91KarBargh1}
-\title{Table R91KarBargh1
-جداول كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار شهری(مربوط به ستون 7 بخش 3 درامد) سال 1391}
+\title{Table R91KarBargh1 \cr
+Worksheet related to miscellaneous incomes of rural household members in 1391 \cr
+كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار روستایی سال 1391}
 \format{
 A data frame with 4 columns:
 \itemize{
@@ -35,6 +36,6 @@ R91KarBargh1
 }
 \description{
 {R for Rural} \cr
-{91 for the year of 1391}
+{91 for 1391}
 }
 \keyword{datasets}

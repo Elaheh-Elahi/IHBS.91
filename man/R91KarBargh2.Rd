@@ -3,9 +3,9 @@
 \docType{data}
 \name{R91KarBargh2}
 \alias{R91KarBargh2}
-\title{Table R91KarBargh2
-Income (employees in the agricultural sector) of Rural Households in 1391
-درامد شاغلان بخش كشاورزي سال 1391}
+\title{Table R91KarBargh2 \cr
+Income (employees in the agricultural sector) of rural households in 1391 \cr
+درامد شاغلان بخش كشاورزي خانوار روستایی در سال 1391}
 \format{
 A data frame with 95 columns:
 \itemize{
@@ -87,7 +87,7 @@ A data frame with 95 columns:
 \item \code{DYCOL15}:
 \itemize{
 \item Farsi name: \emph{مزد و حقوق و مزايا (پولي و جنسي )دستمزد ميراب}
-\item Description: "Wages, salaries and benefits (monetary and goods)". classified in DyCole16 - DyCole25}
+\item Description: Wages, salaries and benefits (monetary and goods). classified in DyCole16 - DyCole25
 }
 \item \code{DYCOL16}:
 \itemize{
@@ -241,7 +241,7 @@ A data frame with 95 columns:
 }
 \item \code{DYCOL46}:
 \itemize{
-\item Farsi name: \emph{تهيه ابزار كار بيدوام و هزينهي استهلاك ابزار و ماشين آلات بادوام – سطل}
+\item Farsi name: \emph{تهيه ابزار كار بي دوام و هزينه ي استهلاك ابزار و ماشين آلات بادوام – سطل}
 \item Description:
 }
 \item \code{DYCOL47}:
@@ -471,6 +471,6 @@ R91KarBargh2
 }
 \description{
 {R for Rural} \cr
-{91 for the year of 1391}
+{91 for 1391}
 }
 \keyword{datasets}

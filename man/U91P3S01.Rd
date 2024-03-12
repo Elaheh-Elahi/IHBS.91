@@ -3,23 +3,56 @@
 \docType{data}
 \name{U91P3S01}
 \alias{U91P3S01}
-\title{Title for U91P3S01}
+\title{Table U91P3S01 \cr
+Household food and tobacco expenditure of urban household in 1391 \cr
+هزينه هاي خوراكي و دخانی خانوار شهری سال 1391}
 \format{
-A data frame with 7 variables:
-\describe{"هزينه هائ خوراكي ودخاني" Food and tobacco expenses
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"کد کالا" Bar code}
-\item{DYCOL02}{"طریق تهیه" Preparation method}
-\item{DYCOL03}{"مقدار گرم" Amount of grams}
-\item{DYCOL04}{"مقدار کیلو" Amount of kilogram}
-\item{DYCOL05}{"قیمت واحد(ریال)" Unit price (Rials)}
-\item{DYCOL06}{"ارزش(ریال)" Value (Rials)}
+A data frame with 7 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{کد کالا}
+\item Description: Bar code
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{طریق تهیه}
+\item Description: Preparation method
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{مقدار (گرم)}
+\item Description: Amount(gram)
+}
+\item \code{DYCOL04}:
+\itemize{
+\item Farsi name: \emph{مقدار (کیلوگرم)}
+\item Description: Amount(kilogram)
+}
+\item \code{DYCOL05}:
+\itemize{
+\item Farsi name: \emph{قیمت واحد (ریال)}
+\item Description: Unit price (Rials)
+}
+\item \code{DYCOL06}:
+\itemize{
+\item Farsi name: \emph{ارزش (ریال)}
+\item Description: Value (Rials)
+}
 }
 }
 \usage{
 U91P3S01
 }
 \description{
-Title for U91P3S01
+{U for Urban} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

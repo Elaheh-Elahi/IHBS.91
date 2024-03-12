@@ -3,9 +3,9 @@
 \docType{data}
 \name{U91KarBargh1}
 \alias{U91KarBargh1}
-\title{Table U91KarBargh1
-Miscellaneous income of rural household members in 1391
-درامدهاي متفرقه اعضاء خانوار روستایی سال 1391}
+\title{Table U91KarBargh1 \cr
+Worksheet related to miscellaneous incomes of urban household members in 1391 \cr
+كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار شهری سال 1391}
 \format{
 A data frame with 4 columns:
 \itemize{
@@ -36,6 +36,6 @@ U91KarBargh1
 }
 \description{
 {U for Urban} \cr
-{91 for the year of 1391}
+{91 for 1391}
 }
 \keyword{datasets}

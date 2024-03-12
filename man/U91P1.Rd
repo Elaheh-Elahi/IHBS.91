@@ -3,26 +3,70 @@
 \docType{data}
 \name{U91P1}
 \alias{U91P1}
-\title{Title for U91P1}
+\title{Table U91P1 \cr
+Member characteristics of urban household in 1391 \cr
+خصوصيات اجتماعي اعضاي خانوار شهری سال 1391}
 \format{
-A data frame with 10 variables:
-\describe{"جدول قسمت يكم، خصوصيات اجتماعي اعضاي خانوار" The table of the first part, The social characteristics of the family members
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"شماره ردیف اعضای خانوار" Row number of family members}
-\item{DYCOL03}{"بستگی با سرپرست" Relationship with the guardian}
-\item{DYCOL04}{"جنس" Gender}
-\item{DYCOL05}{"سن" Age}
-\item{DYCOL06}{"وضع سواد" Literacy status}
-\item{DYCOL07}{"آیا در حال حاضر تحصیل می کند؟" Is she/he currently studying?}
-\item{DYCOL08}{"پایه یا مدرک" Education degree}
-\item{DYCOL09}{"وضع فعالیت" Employment status}
-\item{DYCOL10}{"وضع زناشویی" Marital status}
+A data frame with 10 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{شماره ردیف اعضای خانوار}
+\item Description: Row number of family members
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{بستگی با سرپرست}
+\item Description: Relationship with the guardian
+}
+\item \code{DYCOL04}:
+\itemize{
+\item Farsi name: \emph{جنس}
+\item Description: Gender
+}
+\item \code{DYCOL05}:
+\itemize{
+\item Farsi name: \emph{سن}
+\item Description: Age
+}
+\item \code{DYCOL06}:
+\itemize{
+\item Farsi name: \emph{وضع سواد}
+\item Description: Literacy status
+}
+\item \code{DYCOL07}:
+\itemize{
+\item Farsi name: \emph{آیا در حال حاضر تحصیل می کند؟}
+\item Description: Is she/he currently studying?
+}
+\item \code{DYCOL08}:
+\itemize{
+\item Farsi name: \emph{پایه یا مدرک}
+\item Description: Education degree
+}
+\item \code{DYCOL09}:
+\itemize{
+\item Farsi name: \emph{وضع فعالیت}
+\item Description: Employment status
+}
+\item \code{DYCOL10}:
+\itemize{
+\item Farsi name: \emph{وضع زناشویی}
+\item Description: Marital status
+}
 }
 }
 \usage{
 U91P1
 }
 \description{
-Title for U91P1
+{U for Urban} \cr
+{91 for 1391} \cr
+{P for Part}
 }
 \keyword{datasets}

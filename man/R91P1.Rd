@@ -3,9 +3,9 @@
 \docType{data}
 \name{R91P1}
 \alias{R91P1}
-\title{Table R91P1
-Member characteristics of rural household members in 1391
-خصوصيات اجتماعي اعضاي خانوار در سال 1391}
+\title{Table R91P1 \cr
+Member characteristics of rural household in 1391 \cr
+خصوصيات اجتماعي اعضاي خانوار روستایی سال 1391}
 \format{
 A data frame with 10 columns:
 \itemize{
@@ -66,6 +66,7 @@ R91P1
 }
 \description{
 {R for Rural} \cr
-{91 for the year of 1391}
+{91 for 1391} \cr
+{P for Part}
 }
 \keyword{datasets}

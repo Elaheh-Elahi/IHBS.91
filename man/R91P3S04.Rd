@@ -3,21 +3,46 @@
 \docType{data}
 \name{R91P3S04}
 \alias{R91P3S04}
-\title{Title for R91P3S04}
+\title{Table R91P3S04 \cr
+Current household housing expenditure of rural household in 1391 \cr
+هزينه هاي جاری مسكن خانوار روستایی سال 1391}
 \format{
-A data frame with 5 variables:
-\describe{"هزينه های پوشاک" Cloth expenses
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"کد کالا" Bar code}
-\item{DYCOL02}{"تعداد افراد بیمه شده" Number of insured persons}
-\item{DYCOL03}{"طریق تهیه" Preparation method}
-\item{DYCOL04}{"ارزش(ریال)" Value (Rials)}
+A data frame with 5 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس خانوار}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{کد کالا}
+\item Description: Bar code
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{تعداد افراد بیمه شده}
+\item Description: Number of insured persons
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{طریق تهیه}
+\item Description: Preparation method
+}
+\item \code{DYCOL04}:
+\itemize{
+\item Farsi name: \emph{ارزش (ریال)}
+\item Description: Value (Rials)
+}
 }
 }
 \usage{
 R91P3S04
 }
 \description{
-Title for R91P3S04
+{R for Rural} \cr
+{91 for 1391} \cr
+{P for Part} \cr
+{S for Section}
 }
 \keyword{datasets}

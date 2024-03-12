@@ -3,9 +3,9 @@
 \docType{data}
 \name{R91P2}
 \alias{R91P2}
-\title{Table R91P2
-Household Facilities in the city in 1391
-مشخصات محل سكونت و تسهيلات و لوازم عمده زندگي شهری در سال 1391}
+\title{Table R91P2 \cr
+Rural household Facilities in 1391 \cr
+مشخصات محل سكونت زندگي روستایی سال 1391}
 \format{
 A data frame with 62 columns:
 \itemize{
@@ -311,89 +311,17 @@ A data frame with 62 columns:
 }
 \item \code{DYCOL60}:
 \itemize{
-\item Farsi name: \emph{نام ساير مناسبت ها}
-\item Description: Names of other occasions
-}
-\item \code{DYCOL61}:
-\itemize{
 \item Farsi name: \emph{هيچكدام}
 \item Description: None
 }
 }
-
-A data frame with 62 variables:
-\describe{"جدول قسمت دوم، مشخصات محل سكونت و تسهيلات و لوازم عمده زندگي" The table of the second part, the details of the place of residence and the facilities and major necessities of life
-\item{Address}{"آدرس خانوار" Address}
-\item{DYCOL01}{"نحوه تصرف محل سكونت" The details of the residency and the facilities}
-\item{DYCOL02}{"ساير انواع نحوه تصرف" The details of the residency and the facilities}
-\item{DYCOL03}{"تعداد اتاق در اختیار خانواده" The details of the residency and the facilities}
-\item{DYCOL04}{"سطح زیربنا" The details of the residency and the facilities}
-\item{DYCOL05}{"نوع اسکلت بنای محل سکونت" The details of the residency and the facilities}
-\item{DYCOL06}{"مصالح عمده" The details of the residency and the facilities}
-\item{DYCOL07}{"اتومبیل سواری شخصی" The major necessities of life}
-\item{DYCOL08}{"موتورسیکلت" The major necessities of life}
-\item{DYCOL09}{"دوچرخه" The major necessities of life}
-\item{DYCOL10}{"رادیو" The major necessities of life}
-\item{DYCOL11}{"رادیو ضبط، ضبط و پخش صوت" The major necessities of life}
-\item{DYCOL12}{"تلویزیون(سیاه و سفید)" The major necessities of life}
-\item{DYCOL13}{"تلویزیون رنگی" The major necessities of life}
-\item{DYCOL14}{"انواع ویدئو VCD و DVD" The major necessities of life}
-\item{DYCOL15}{"رایانه" The major necessities of life}
-\item{DYCOL16}{"تلفن همراه (غیرشغلی)" The major necessities of life}
-\item{DYCOL17}{"فریزر" The major necessities of life}
-\item{DYCOL18}{"یخچال" The major necessities of life}
-\item{DYCOL19}{"یخچال فریزر" The major necessities of life}
-\item{DYCOL20}{"اجاق گاز" The major necessities of life}
-\item{DYCOL21}{"جاروبرقی" The major necessities of life}
-\item{DYCOL22}{"ماشین لباسشویی" The major necessities of life}
-\item{DYCOL23}{"چرخ خیاطی" The major necessities of life}
-\item{DYCOL24}{"پنکه" The major necessities of life}
-\item{DYCOL25}{"کولر آبی متحرک" The major necessities of life}
-\item{DYCOL26}{"کولر گازی متحرک" The major necessities of life}
-\item{DYCOL27}{"ماشین ظرفشویی" The major necessities of life}
-\item{DYCOL28}
-\item{DYCOL29}{"هیچکدام" The major necessities of life}
-\item{DYCOL30}{"آب لوله کشی" The major necessities of life}
-\item{DYCOL31}{"برق" The major necessities of life}
-\item{DYCOL32}{"گاز لوله کشی" The major necessities of life}
-\item{DYCOL33}{"تلفن" The major necessities of life}
-\item{DYCOL34}{"اینترنت" The major necessities of life}
-\item{DYCOL35}{"حمام" The major necessities of life}
-\item{DYCOL36}{"آشپزخانه" The major necessities of life}
-\item{DYCOL37}{"کولر آبی ثابت" The major necessities of life}
-\item{DYCOL38}{"برودت مرکزی" The major necessities of life}
-\item{DYCOL39}{"حرارت مرکزی" The major necessities of life}
-\item{DYCOL40}{"پکیج" The major necessities of life}
-\item{DYCOL41}{"کولر گاز ثابت" The major necessities of life}
-\item{DYCOL42}{"شبکه فاضلاب شهری" The major necessities of life}
-\item{DYCOL43}{"نوع سوخت عمده مصرفي خانوار(پخت و پز)" The major necessities of life}
-\item{DYCOL44}{"نوع سوخت عمده مصرفي خانوار(گرما)" The major necessities of life}
-\item{DYCOL45}{"نوع سوخت عمده مصرفي خانوار(تهيه آب گرم )"The major necessities of life}
-\item{DYCOL46}{"جشن ها-ماه گذشته" The major necessities of life}
-\item{DYCOL47}{"جشن ها-سال گذشته" The major necessities of life}
-\item{DYCOL48}{"عزاداری ها-ماه گذشته" The major necessities of life}
-\item{DYCOL49}{"عزاداری ها-سال گذشته" The major necessities of life}
-\item{DYCOL50}{"تعمیرات منزل مسکونی-ماه گذشته" The major necessities of life}
-\item{DYCOL51}{"تعمیرات منزل مسکونی-سال گذشته" The major necessities of life}
-\item{DYCOL52}{"سفرهای زیارتی-ماه گذشته" The major necessities of life}
-\item{DYCOL53}{"سفرهای زیارتی-سال گذشته" The major necessities of life}
-\item{DYCOL54}{"سایر سفرهای خارجی-ماه گذشته" The major necessities of life}
-\item{DYCOL55}{"سایر سفرهای خارجی-سال گذشته" The major necessities of life}
-\item{DYCOL56}{"عمل های جراحی-ماه گذشته" The major necessities of life}
-\item{DYCOL57}{"عمل های جراحی-سال گذشته" The major necessities of life}
-\item{DYCOL58}{"سایر مناسبت ها-ماه گذشته" The major necessities of life}
-\item{DYCOL59}{"سایر مناسبت ها-سال گذشته" The major necessities of life}
-\item{DYCOL60}{"هیچکدام" The major necessities of life}
-\item{DYCOL61}{}
-}
 }
 \usage{
-R91P2
-
 R91P2
 }
 \description{
 {R for Rural} \cr
-{91 for the year of 1391}
+{91 for 1391} \cr
+{P for Part}
 }
 \keyword{datasets}
