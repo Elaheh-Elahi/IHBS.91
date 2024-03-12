@@ -6,29 +6,77 @@
 \title{Table U91Data}
 \format{
 A data frame with 22 columns:
-\describe{
-\item{Address}{"آدرس" Address}
-\item{MahMorajeh}{"ماه مراجعه به خانوار" The month of visiting the household}
-\item{ShoghlSarparast}{"شغل سرپرست خانوار" The job of the head of the household}
-\item{NoeKhn}{"نوع خانوار (معمولي ساكن كد ،1 گروهي كد 2)" Household type (ordinary resident code 1, group code 2)}
-\item{Takmil}{"بخش پ روي جلد پرسشنامه، سوال 19 (بله كد ،1 نه كد 2)" Questionnaire for substitute household(Yes cod 1, No code 2)}
-\item{TakmilDescA}{"اطلاع جدول -2 علت حذف خانوار" Table-2 information on the reason for removing the household(
-1.The family does not want to cooperate.
-2.The family due to old age, mental disability, illiteracy of all family members or... is not able to answer.
-\item{TakmilDescB}{"اطلاع جدول -3 علت جايگزيني خانوار" Table-3 information on the reason for replacing the household(
-1.The household was absent during the census season.
-2.The place is empty.
-3.The place is not an ordinary residence for the household.
-4.The place is destroyed, under construction or demolition.
-5.The residence of the family is an institutional or non-resident.
-6.The intend address was not found)}
-\item{TakmilDescC}{"كد 7 جدول -3 ساير (با ذكر علت)" (Code 7, table-3, other (with the reason for replacing the household)}
-\item{Jaygozin}{"اطلاع پرسش 20 (بله كد ،1 نه كد 2)"}
-\item{JaygozinDescA}{"اطلاع جدول -4 علت حذف خانوار جايگزين به دلايل حذف" Table-4 the reason for the removal of the replacement household for reasons of removal)}
-\item{JaygozinDescB}{"اطلاع جدول -5 علت حذف خانوار جايگزين به دلايل جايگزيني" Table-5 the re  ason for the removal of the replacement household for alternative reasons}
-\item{JaygozinDescC}{"كد 7 جدول -5 ساير (با ذكر علت)" (Code 7, table-5, other (with the reason for the removal of the replacement household for alternative reasons)}
-\item{BlkAbdJaygozin}{"شماره بلوك يا آبادي خانوار جايگزين (كه بايد با خانوار نمونهي اصلي يكسان باشد)" Block or settlement number of the alternative household (which must be the same as the original sample household)}
-\item{RadifJaygozin}{"شماره رديف خانوار جايگزين در واحد نمونه گيري اوليه" Substitute household row number in the primary sampling unit}
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{MahMorajeh}:
+\itemize{
+\item Farsi name: \emph{ماه مراجعه به خانوار}
+\item Description: The month of visiting the household
+}
+\item \code{ShoghlSarparast}:
+\itemize{
+\item Farsi name: \emph{شغل سرپرست خانوار}
+\item Description: The job of the head of the household
+}
+\item \code{NoeKhn}:
+\itemize{
+\item Farsi name: \emph{نوع خانوار (معمولي ساكن كد 1 گروهي كد 2)}
+\item Description: Household type (ordinary resident code 1, group code 2)
+}
+\item \code{Takmil}:
+\itemize{
+\item Farsi name: \emph{بخش پ روي جلد پرسشنامه، سوال 19 (بله كد 1 نه كد 2)}
+\item Description: Questionnaire for substitute household (Yes code 1, No code 2)
+}
+\item \code{TakmilDescA}:
+\itemize{
+\item Farsi name: \emph{اطلاع جدول -2 علت حذف خانوار}
+\item Description: Table-2 information on the reason for removing the household.
+}
+\item \code{TakmilDescB}:
+\itemize{
+\item Farsi name: \emph{اطلاع جدول -3 علت جايگزيني خانوار}
+\item Description: Table-3 information on the reason for replacing the household
+}
+\item \code{TakmilDescC}:
+\itemize{
+\item Farsi name: \emph{كد 7 جدول -3 ساير (با ذكر علت)}
+\item Description: (Code 7, table-3, other (with the reason for replacing the household)
+}
+\item \code{Jaygozin}:
+\itemize{
+\item Farsi name: \emph{اطلاع پرسش 20 (بله كد ،1 نه كد 2)}
+\item Description:
+}
+\item \code{JaygozinDescA}:
+\itemize{
+\item Farsi name: \emph{اطلاع جدول -4 علت حذف خانوار جايگزين به دلايل حذف}
+\item Description: Table-4 the reason for the removal of the replacement household for reasons of removal
+}
+\item \code{JaygozinDescB}:
+\itemize{
+\item Farsi name: \emph{اطلاع جدول -5 علت حذف خانوار جايگزين به دلايل جايگزيني}
+\item Description: Table-5 the reason for the removal of the replacement household for alternative reasons
+}
+\item \code{JaygozinDescC}:
+\itemize{
+\item Farsi name: \emph{كد 7 جدول -5 ساير (با ذكر علت)}
+\item Description: (Code 7, table-5, other (with the reason for the removal of the replacement household for alternative reasons)
+}
+\item \code{BlkAbdJaygozin}:
+\itemize{
+\item Farsi name: \emph{شماره بلوك يا آبادي خانوار جايگزين (كه بايد با خانوار نمونه ی اصلي يكسان باشد)}
+\item Description: Block or settlement number of the alternative household (which must be the same as the original sample household)
+}
+\item \code{RadifJaygozin}:
+\itemize{
+\item Farsi name: \emph{شماره رديف خانوار جايگزين در واحد نمونه گيري اوليه}
+\item Description:  Substitute household row number in the primary sampling unit
+}
 \item{fStat}{Description of var15}
 \item{fEnt}{Description of var16}
 \item{fvfy}{Description of var17}
@@ -43,7 +91,7 @@ A data frame with 22 columns:
 U91Data
 }
 \description{
-U for Uraban
+U for Uraban \cr
 91 for year of 1391
 }
 \keyword{datasets}

@@ -14,8 +14,8 @@ A data frame with 10 variables:
 \item{DYCOL05}{"سن" Age}
 \item{DYCOL06}{"وضع سواد" Literacy status}
 \item{DYCOL07}{"آیا در حال حاضر تحصیل می کند؟" Is she/he currently studying?}
-\item{DYCOL08}{"پایه یا مدرک" Degree}
-\item{DYCOL09}{"وضع فعالیت" Career status}
+\item{DYCOL08}{"پایه یا مدرک" Education degree}
+\item{DYCOL09}{"وضع فعالیت" Employment status}
 \item{DYCOL10}{"وضع زناشویی" Marital status}
 }
 }

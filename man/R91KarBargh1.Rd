@@ -3,20 +3,38 @@
 \docType{data}
 \name{R91KarBargh1}
 \alias{R91KarBargh1}
-\title{Title for R91KarBargh1}
+\title{Table R91KarBargh1
+جداول كاربرگ مربوط به درامدهاي متفرقه اعضاء خانوار شهری(مربوط به ستون 7 بخش 3 درامد) سال 1391}
 \format{
-A data frame with 4 variables:
-\describe{
-\item{Address}{"آدرس" Address}
-\item{DYCOL01}{"شماره ردیف فرد" Person row number}
-\item{DYCOL02}{"شماره ردیف فعالیت" Activity row number}
-\item{DYCOL03}{"درآمد" Income}
+A data frame with 4 columns:
+\itemize{
+\item \code{Address}:
+\itemize{
+\item Farsi name: \emph{آدرس}
+\item Description: Household address
+}
+\item \code{DYCOL01}:
+\itemize{
+\item Farsi name: \emph{شماره ردیف فرد}
+\item Description: Person row number
+}
+\item \code{DYCOL02}:
+\itemize{
+\item Farsi name: \emph{شماره ردیف فعالیت}
+\item Description: Activity row number
+}
+\item \code{DYCOL03}:
+\itemize{
+\item Farsi name: \emph{درآمد}
+\item Description: Income
+}
 }
 }
 \usage{
 R91KarBargh1
 }
 \description{
-Title for R91KarBargh1
+{R for Rural} \cr
+{91 for the year of 1391}
 }
 \keyword{datasets}
