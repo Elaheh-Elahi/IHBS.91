@@ -39,52 +39,52 @@ A data frame with 16 columns:
 \item Farsi name: \emph{کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3}
 \item Description: Employer 1 independent employee 2 family employee 3
 }
-\item \code{DYCOL03}:
+\item \code{DYCOL06}:
 \itemize{
 \item Farsi name: \emph{كد شغل کشاورزی 1 غیرکشاورزی 2}
 \item Description: Agriculture 1 non-agriculture 2
 }
-\item \code{DYCOL06}:
+\item \code{DYCOL07}:
 \itemize{
 \item Farsi name: \emph{ميزان ساعت هاي كار در روز}
 \item Description: The amount of working hours per day
 }
-\item \code{DYCOL07}:
+\item \code{DYCOL08}:
 \itemize{
 \item Farsi name: \emph{تعداد روزهاي كار در هفته}
 \item Description: Number of working days per week
 }
-\item \code{DYCOL08}:
+\item \code{DYCOL09}:
 \itemize{
 \item Farsi name: \emph{مزد و حقوق و مزایا}
 \item Description: Wages and benefits
 }
-\item \code{DYCOL09}:
+\item \code{DYCOL10}:
 \itemize{
 \item Farsi name: \emph{بذر، آب و کود}
 \item Description: Seeds, water and fertilizer
 }
-\item \code{DYCOL10}:
+\item \code{DYCOL11}:
 \itemize{
 \item Farsi name: \emph{تهیه ابزار کار بی دوام}
 \item Description: Preparation of unsustainable working tools
 }
-\item \code{DYCOL11}:
+\item \code{DYCOL12}:
 \itemize{
 \item Farsi name: \emph{کارمزد شغلی}
 \item Description: Job wage
 }
-\item \code{DYCOL12}:
+\item \code{DYCOL13}:
 \itemize{
 \item Farsi name: \emph{مالیات شغلی}
 \item Description: Job tax
 }
-\item \code{DYCOL13}:
+\item \code{DYCOL14}:
 \itemize{
 \item Farsi name: \emph{فروش (دریافتی ناخالص)}
 \item Description: Sales (gross receiving)
 }
-\item \code{DYCOL14}:
+\item \code{DYCOL15}:
 \itemize{
 \item Farsi name: \emph{درآمد خالص}
 \item Description: Net income

@@ -9,7 +9,7 @@
 #'             \itemize{
 #'                \item Farsi name: \emph{آدرس}
 #'                \item Description: Household address
-#'              }
+#'                }
 #'   \item \code{MahMorajeh}:
 #'             \itemize{
 #'                \item Farsi name: \emph{ماه مراجعه به خانوار}
@@ -33,12 +33,14 @@
 #'   \item \code{MahMorajeh}:
 #'             \itemize{
 #'                \item Farsi name: \emph{ماه مراجعه به خانوار}
-#'                \item Description: The month of visiting the household
+#'                \item Description:The month of visiting the household
 #'              }
 #' }
 "U91"
 
-#' Table R91Data
+#' Table R91Data \cr
+#' Including some information on the front and back of the questionnaire in 1391 \cr
+#' شامل برخی اطلاعات رو و پشت جلد پرسشنامه در سال 1391
 #'
 #' {R for Rural} \cr
 #' {91 for 1391}
@@ -79,11 +81,11 @@
 #'             \itemize{
 #'                \item Farsi name: \emph{اطلاع جدول -3 علت جايگزيني خانوار}
 #'                \item Description: Table-3 information on the reason for replacing the household
-#'        }
+#'              }
 #'  \item \code{TakmilDescC}:
 #'             \itemize{
 #'                \item Farsi name: \emph{كد 7 جدول -3 ساير (با ذكر علت)}
-#'                \item Description: (Code 7, table-3, other (with the reason for replacing the household)
+#'                \item Description: (Code 7, table-3, other (with the reason for replacing the household))
 #'          }
 #'   \item \code{Jaygozin}:
 #'             \itemize{
@@ -117,48 +119,55 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{Tekrari}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
 "R91Data"
 
-#' Table U91Data
+
+
+
+
+
+#' Table U91Data \cr
+#' Including some information on the front and back of the questionnaire in 1391 \cr
+#' شامل برخی اطلاعات رو و پشت جلد پرسشنامه در سال 1391
 #'
 #' {U for Urban} \cr
 #' {91 for 1391}
@@ -237,46 +246,47 @@
 #'  }
 #'   \item \code{fStat}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fEnt}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{fvfy}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user1}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user2}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{user3}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'  \item \code{user4}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #'   \item \code{Tekrari}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description
 #'              }
 #' }
 "U91Data"
+
 
 #' Table R91KarBargh1 \cr
 #' Worksheet related to miscellaneous incomes of rural household members in 1391 \cr
@@ -1411,7 +1421,7 @@
 #' {91 for 1391} \cr
 #' {P for Part}
 #'
-#'@format A data frame with 62 columns:
+#'@format A data frame with 61 columns:
 #'  \itemize{
 #'   \item \code{Address}:
 #'             \itemize{
@@ -1729,7 +1739,7 @@
 #' {91 for 1391} \cr
 #' {P for Part}
 #'
-#'@format A data frame with 62 columns:
+#'@format A data frame with 61 columns:
 #'  \itemize{
 #'   \item \code{Address}:
 #'             \itemize{
@@ -2874,7 +2884,7 @@
 #' {P for Part} \cr
 #' {S for Section}
 #'
-#'@format A data frame with 5 columns:
+#'@format A data frame with 7 columns:
 #'  \itemize{
 #'    \item \code{Address}:
 #'             \itemize{
@@ -2905,6 +2915,11 @@
 #'             \itemize{
 #'                \item Farsi name: \emph{فروش دست دوم}
 #'                \item Description: Second hand sale
+#'              }
+#'    \item \code{DYCOL06}:
+#'             \itemize{
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Description: No description
 #'              }
 #' }
 "R91P3S13"
@@ -2918,7 +2933,7 @@
 #' {P for Part} \cr
 #' {S for Section}
 #'
-#'@format A data frame with 5 columns:
+#'@format A data frame with 7 columns:
 #'  \itemize{
 #'    \item \code{Address}:
 #'             \itemize{
@@ -2949,6 +2964,11 @@
 #'             \itemize{
 #'                \item Farsi name: \emph{فروش دست دوم}
 #'                \item Description: Second hand sale
+#'              }
+#'     \item \code{DYCOL06}:
+#'             \itemize{
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+#'                \item Description: No description
 #'              }
 #' }
 "U91P3S13"
@@ -3262,52 +3282,52 @@
 #'                \item Farsi name: \emph{کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3}
 #'                \item Description: Employer 1 independent employee 2 family employee 3
 #'              }
-#'     \item \code{DYCOL03}:
+#'     \item \code{DYCOL06}:
 #'             \itemize{
 #'                \item Farsi name: \emph{كد شغل کشاورزی 1 غیرکشاورزی 2}
 #'                \item Description: Agriculture 1 non-agriculture 2
 #'              }
-#'     \item \code{DYCOL06}:
+#'     \item \code{DYCOL07}:
 #'             \itemize{
 #'                \item Farsi name: \emph{ميزان ساعت هاي كار در روز}
 #'                \item Description: The amount of working hours per day
 #'              }
-#'     \item \code{DYCOL07}:
+#'     \item \code{DYCOL08}:
 #'             \itemize{
 #'                \item Farsi name: \emph{تعداد روزهاي كار در هفته}
 #'                \item Description: Number of working days per week
 #'              }
-#'     \item \code{DYCOL08}:
+#'     \item \code{DYCOL09}:
 #'             \itemize{
 #'                \item Farsi name: \emph{مزد و حقوق و مزایا}
 #'                \item Description: Wages and benefits
 #'              }
-#'     \item \code{DYCOL09}:
+#'     \item \code{DYCOL10}:
 #'             \itemize{
 #'                \item Farsi name: \emph{بذر، آب و کود}
 #'                \item Description: Seeds, water and fertilizer
 #'              }
-#'    \item \code{DYCOL10}:
+#'    \item \code{DYCOL11}:
 #'             \itemize{
 #'                \item Farsi name: \emph{تهیه ابزار کار بی دوام}
 #'                \item Description: Preparation of unsustainable working tools
 #'              }
-#'    \item \code{DYCOL11}:
+#'    \item \code{DYCOL12}:
 #'             \itemize{
 #'                \item Farsi name: \emph{کارمزد شغلی}
 #'                \item Description: Job wage
 #'              }
-#'    \item \code{DYCOL12}:
+#'    \item \code{DYCOL13}:
 #'             \itemize{
 #'                \item Farsi name: \emph{مالیات شغلی}
 #'                \item Description: Job tax
 #'              }
-#'     \item \code{DYCOL13}:
+#'     \item \code{DYCOL14}:
 #'             \itemize{
 #'                \item Farsi name: \emph{فروش (دریافتی ناخالص)}
 #'                \item Description: Sales (gross receiving)
 #'              }
-#'     \item \code{DYCOL14}:
+#'     \item \code{DYCOL15}:
 #'             \itemize{
 #'                \item Farsi name: \emph{درآمد خالص}
 #'                \item Description: Net income
@@ -3356,52 +3376,52 @@
 #'                \item Farsi name: \emph{کارفرما 1 کارکن مستقل 2 کارکن فامیلی 3}
 #'                \item Description: Employer 1 independent employee 2 family employee 3
 #'              }
-#'     \item \code{DYCOL03}:
+#'     \item \code{DYCOL06}:
 #'             \itemize{
 #'                \item Farsi name: \emph{كد شغل کشاورزی 1 غیرکشاورزی 2}
 #'                \item Description: Agriculture 1 non-agriculture 2
 #'              }
-#'     \item \code{DYCOL06}:
+#'     \item \code{DYCOL07}:
 #'             \itemize{
 #'                \item Farsi name: \emph{ميزان ساعت هاي كار در روز}
 #'                \item Description: The amount of working hours per day
 #'              }
-#'     \item \code{DYCOL07}:
+#'     \item \code{DYCOL08}:
 #'             \itemize{
 #'                \item Farsi name: \emph{تعداد روزهاي كار در هفته}
 #'                \item Description: Number of working days per week
 #'              }
-#'     \item \code{DYCOL08}:
+#'     \item \code{DYCOL09}:
 #'             \itemize{
 #'                \item Farsi name: \emph{مزد و حقوق و مزایا}
 #'                \item Description: Wages and benefits
 #'              }
-#'     \item \code{DYCOL09}:
+#'     \item \code{DYCOL10}:
 #'             \itemize{
 #'                \item Farsi name: \emph{بذر، آب و کود}
 #'                \item Description: Seeds, water and fertilizer
 #'              }
-#'    \item \code{DYCOL10}:
+#'    \item \code{DYCOL11}:
 #'             \itemize{
 #'                \item Farsi name: \emph{تهیه ابزار کار بی دوام}
 #'                \item Description: Preparation of unsustainable working tools
 #'              }
-#'    \item \code{DYCOL11}:
+#'    \item \code{DYCOL12}:
 #'             \itemize{
 #'                \item Farsi name: \emph{کارمزد شغلی}
 #'                \item Description: Job wage
 #'              }
-#'    \item \code{DYCOL12}:
+#'    \item \code{DYCOL13}:
 #'             \itemize{
 #'                \item Farsi name: \emph{مالیات شغلی}
 #'                \item Description: Job tax
 #'              }
-#'     \item \code{DYCOL13}:
+#'     \item \code{DYCOL14}:
 #'             \itemize{
 #'                \item Farsi name: \emph{فروش (دریافتی ناخالص)}
 #'                \item Description: Sales (gross receiving)
 #'              }
-#'     \item \code{DYCOL14}:
+#'     \item \code{DYCOL15}:
 #'             \itemize{
 #'                \item Farsi name: \emph{درآمد خالص}
 #'                \item Description: Net income
@@ -3529,27 +3549,27 @@
 #'  \itemize{
 #'   \item \code{Address}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'   \item \code{DYCOL01}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'    \item \code{DYCOL03}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'     \item \code{DYCOL04}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'     \item \code{DYCOL05}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #' }
@@ -3566,28 +3586,29 @@
 #'  \itemize{
 #'   \item \code{Address}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'   \item \code{DYCOL01}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'    \item \code{DYCOL03}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'     \item \code{DYCOL04}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #'     \item \code{DYCOL05}:
 #'             \itemize{
-#'                \item Farsi name: \emph
+#'                \item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 #'                \item Description: No description is provided for this table
 #'              }
 #' }
 "U91P4S04"
+

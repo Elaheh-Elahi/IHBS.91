@@ -3,7 +3,9 @@
 \docType{data}
 \name{U91Data}
 \alias{U91Data}
-\title{Table U91Data}
+\title{Table U91Data \cr
+Including some information on the front and back of the questionnaire in 1391 \cr
+شامل برخی اطلاعات رو و پشت جلد پرسشنامه در سال 1391}
 \format{
 A data frame with 22 columns:
 \itemize{
@@ -79,42 +81,42 @@ A data frame with 22 columns:
 }
 \item \code{fStat}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{fEnt}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{fvfy}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user1}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user2}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user3}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{user4}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 \item \code{Tekrari}:
 \itemize{
-\item Farsi name: \emph
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
 \item Description: No description
 }
 }

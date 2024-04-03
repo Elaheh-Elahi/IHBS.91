@@ -15,7 +15,7 @@ A data frame with 2 columns:
 \item \code{MahMorajeh}:
 \itemize{
 \item Farsi name: \emph{ماه مراجعه به خانوار}
-\item Description: The month of visiting the household
+\item Description:The month of visiting the household
 }
 }
 }

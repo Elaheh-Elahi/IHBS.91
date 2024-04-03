@@ -7,7 +7,7 @@
 Rural household Facilities in 1391 \cr
 مشخصات محل سكونت زندگي روستایی سال 1391}
 \format{
-A data frame with 62 columns:
+A data frame with 61 columns:
 \itemize{
 \item \code{Address}:
 \itemize{

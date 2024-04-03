@@ -7,7 +7,7 @@
 Supply and sale of durable goods & other yearly expenditure of urban household in 1391 \cr
 تهيه و فروش كالاهای بادوام منزل شهری سال 1391}
 \format{
-A data frame with 5 columns:
+A data frame with 7 columns:
 \itemize{
 \item \code{Address}:
 \itemize{
@@ -38,6 +38,11 @@ A data frame with 5 columns:
 \itemize{
 \item Farsi name: \emph{فروش دست دوم}
 \item Description: Second hand sale
+}
+\item \code{DYCOL06}:
+\itemize{
+\item Farsi name: \emph{اطلاعاتی ثبت نشده است}
+\item Description: No description
 }
 }
 }
